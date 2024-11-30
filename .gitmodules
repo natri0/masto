@@ -1,0 +1,8 @@
+[submodule "json"]
+	path = json
+	url = https://github.com/natri0/nlohmann-json
+	branch = natri0/parse-non-strict
+[submodule "raylib"]
+	path = raylib
+	url = https://github.com/natri0/raylib
+	branch = natri0/minimal
